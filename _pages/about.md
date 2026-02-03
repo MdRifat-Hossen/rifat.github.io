@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-permalink: /
+<!-- permalink: /
 title: "Md. Rifat Hossen"
 author_profile: true
 redirect_from:
@@ -17,19 +17,19 @@ redirect_from:
 - /about/
 - /about.html
 
----
+--- -->
 
 <div align="justify"> With over 1.5+ years of research experience in Deep Learning and Machine Learning, I specialize in Computer Vision, Speech and Facial Emotion Recognition, Precision Agriculture, and AI applications in healthcare. I earned a Bachelor’s degree in Information and Communication Engineering from Pabna University of Science and Technology, graduating at the top of my class. My background in competitive programming, reflected in high LeetCode rankings, enhances my problem-solving skills alongside my research expertise. <br></div>
-<button class = "btn" onclick="window.location.href='https://mdrifat-hossen.github.io/publications/;">View Publications</button> <button class = "btn" onclick="window.location.href='https://sajeebray.github.io/projects/';">View Projects</button> <button class = "btn" onclick="window.location.href='https://mdrifat-hossen.github.io/portfolio/';">View Portfolio</button>
+<button class = "btn" onclick="window.location.href='https://mdrifat-hossen.github.io/publications/;">View Publications</button> <button class = "btn" onclick="window.location.href='https://mdrifat-hossen.github.io/projects/';">View Projects</button> <button class = "btn" onclick="window.location.href='https://mdrifat-hossen.github.io/portfolio/';">View Portfolio</button>
 <button class = "btn" onclick="window.location.href='https://mdrifat-hossen.github.io/files/CV-SK-Ray.pdf';">Download CV</button>
 <button class = "btn" onclick="window.location.href='https://mdrifat-hossen.github.io/portfolio/Std_year/';">Alumni of Aspire Leadership program</button>
 
 ## Experience
 
-- **Research Assistant**,
+- **Research Assistant**
   - Dept. of ICE, Pabna University of Science and Technology · Part-time
   - Dec 2024 – Present\*
-- **Research Trainee**,
+- **Research Trainee**
   - Learnify Research Lab · Part-time
   - Jan 2025 – Present\*
 - **Research Assistant**,
@@ -39,7 +39,9 @@ redirect_from:
 ## Academic
 
 1. **B.Sc. (Engineering) in ICE**
-   · Dept. of Information and Communication Engineering, Pabna University of Science and Technology, Pabna, Bangladesh. -_CGPA: 3.67 out of 4.00 (after 5 semesters; remaining 3 semesters)_
+   · Dept. of Information and Communication Engineering, Pabna University of Science and Technology, Pabna, Bangladesh.
+
+- _CGPA: 3.67 out of 4.00 (after 5 semesters; remaining 3 semesters)_
 
 1. **Higher Secondary School Certificate**
    · Alamgir Monsur Memorial College (AMMC), Mymensingh · 2021
@@ -49,7 +51,7 @@ redirect_from:
 1. **Secondary School Certificate**
    · Shontospur High School (SHS), Fulbaria, Mymensingh · 2019
 
-- _GPA: 4.610 out of 5.00_
+- _GPA: 4.61 out of 5.00_
 
 <h3> Biography </h3>
 
