@@ -1,0 +1,8 @@
+Md. Rifat Hossen is an enthusiastic undergraduate researcher with a solid academic background in engineering, artificial intelligence, and computational sciences. He is currently pursuing a degree in Information and Communication Engineering (ICE) at Pabna University of Science and Technology (PUST), Bangladesh, where he has shown continuous academic achievement and a strong passion for research and innovation.
+
+Rifat has been deeply engaged in researching Artificial Intelligence applications in Agriculture and Healthcare, especially in Computer Vision, Deep Learning, Machine Learning, and Data-Driven Systems. He has participated in research projects and has contributed to conference publications, demonstrating his increasing focus on real-world AI challenges.
+
+In addition to his research, Rifat is a skilled competitive programmer. He has tackled hundreds of algorithmic problems on leading competitive programming platforms. His excellent problem-solving abilities enhance his research, allowing him to handle complex engineering issues with a logical and analytical approach precision.
+
+Rifat has earned recognition for both his academic and extracurricular accomplishments, such as participation in the Aspire Leadership program at Hardved Business School, which underscores his dedication, consistency, and leadership qualities. Outside of academics, he actively engages in student organizations and technical communities, fostering collaboration, mentoring, and knowledge exchange.
+Driven by a passion for research, innovation, and ongoing learning, Md. Rifat Hossen seeks to advance research efforts and contribute to meaningful AI-driven solutions that tackle real-world issues in agriculture, healthcare, and other fields.

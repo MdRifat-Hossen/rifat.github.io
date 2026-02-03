@@ -43,7 +43,7 @@ author:
   orcid: "https://orcid.org/0009-0007-4486-9399"
   semantic: # URL
   ssrn: # URL
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate: "https://www.researchgate.net/profile/Md-Rifat-Hossen-2"
   scopus: # URL
   zotero: # URL
