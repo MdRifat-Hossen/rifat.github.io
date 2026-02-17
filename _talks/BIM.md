@@ -8,21 +8,9 @@ date: 2025-09-27
 location: "Dhaka, Bangladesh"
 ---
 
-<div style="display:flex; gap:20px; align-items:center;">
+<img src='/images/BIM1.jpg'>
 
-<div>
-<img src="/images/BIM1.jpg" width="300">
-</div>
-
-<div>
-<p><b>Conference proceedings talk</b></p>
-
-<button class="btn" onclick="window.location.href='http://mdrifat-hossen.github.io/files/10.pptx';">View Slides</button>
-<button class="btn" onclick="window.location.href='http://mdrifat-hossen.github.io/files/pid_10.pdf';">IEEE Article</button>
-
-</div>
-
-</div>
+<button class = "btn" onclick="window.location.href='http://mdrifat-hossen.github.io/files/10.pptx';">View Slides</button><button class = "btn" onclick="window.location.href='http://mdrifat-hossen.github.io/files/pid_10.pdf';">IEEE Article</button>
 
 In this talk, we explore the implementation of our research titled **“Evaluation of Targeted Productivity in Bangladesh’s Garment Sector Using Machine Learning and Deep Learning with Explainable AI”**
 
