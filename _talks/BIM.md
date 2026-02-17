@@ -8,7 +8,7 @@ date: 2025-09-27
 location: "Dhaka, Bangladesh"
 ---
 
-<img src='/images/BIM1.jpg width="700"'>
+<img src='/images/BIM1.jpg'>
 
 <button class = "btn" onclick="window.location.href='http://mdrifat-hossen.github.io/files/10.pptx';">View Slides</button>
 
