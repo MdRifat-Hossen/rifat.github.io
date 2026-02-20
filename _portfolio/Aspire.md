@@ -6,7 +6,7 @@ date: 2024-11-01
 order: 2
 ---
 
-<img src="/images/Aspire.png" style="max-width:500px;width:100%;height:auto;margin:20px 0;" />
+<img src="/images/Aspire.png" style="max-width:700px;width:100%;height:auto;margin:20px 0;" />
 
 ## The Aspire Leaders Program
 
@@ -22,7 +22,10 @@ demonstrating strong commitment to leadership excellence, global engagement, and
 
 ## 📜 Full Program Certificate
 
-[View Completion Certificate](/files/Aspire.pdf)
+<button onclick="window.open('/files/Aspire.pdf', '_blank')" 
+        style="padding:10px 20px; background:#007acc; color:white; border:none; border-radius:5px; cursor:pointer;">
+View Completion Certificate
+</button>
 
 ---
 
@@ -33,7 +36,10 @@ demonstrating strong commitment to leadership excellence, global engagement, and
 - Interview preparation and networking strategies
 - Global cohort engagement
 
-[View Module I Certificate](/files/A_M1.pdf)
+<button onclick="window.open('/files/A_M1.pdf', '_blank')" 
+        style="padding:10px 20px; background:#007acc; color:white; border:none; border-radius:5px; cursor:pointer;">
+View Module I Certificate
+</button>
 
 ---
 
@@ -43,7 +49,10 @@ demonstrating strong commitment to leadership excellence, global engagement, and
 - Asynchronous and synchronous learning
 - Peer and mentor collaboration
 
-[View Module II Certificate](/files/A_M2.pdf)
+<button onclick="window.open('/files/A_M2.pdf', '_blank')" 
+        style="padding:10px 20px; background:#007acc; color:white; border:none; border-radius:5px; cursor:pointer;">
+View Module II Certificate
+</button>
 
 ---
 
@@ -56,7 +65,10 @@ demonstrating strong commitment to leadership excellence, global engagement, and
 - Voices of Global Leaders
 - Taking Action in Communities Worldwide
 
-[View Module III Certificate](/files/A_M3.pdf)
+<button onclick="window.open('/files/A_M3.pdf', '_blank')" 
+        style="padding:10px 20px; background:#007acc; color:white; border:none; border-radius:5px; cursor:pointer;">
+View Module III Certificate
+</button>
 
 ---
 
