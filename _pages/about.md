@@ -43,12 +43,12 @@ redirect_from:
 
 - _CGPA: 3.67 out of 4.00 (after 5 semesters; remaining 3 semesters)_
 
-1. **Higher Secondary School Certificate**
+2. **Higher Secondary School Certificate**
    · Alamgir Monsur Memorial College (AMMC), Mymensingh · 2021
 
 - _GPA: 4.92 out of 5.00_
 
-1. **Secondary School Certificate**
+3. **Secondary School Certificate**
    · Shontospur High School (SHS), Fulbaria, Mymensingh · 2019
 
 - _GPA: 4.61 out of 5.00_
